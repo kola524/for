@@ -1,0 +1,7 @@
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 11\bin\Debug\task 11.exe.config
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 11\bin\Debug\task 11.exe
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 11\bin\Debug\task 11.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 11\obj\Debug\task 11.csproj.AssemblyReference.cache
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 11\obj\Debug\task 11.csproj.CoreCompileInputs.cache
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 11\obj\Debug\task 11.exe
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 11\obj\Debug\task 11.pdb
