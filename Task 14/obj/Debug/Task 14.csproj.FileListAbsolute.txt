@@ -1,7 +1,0 @@
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 14\bin\Debug\Task 14.exe.config
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 14\bin\Debug\Task 14.exe
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 14\bin\Debug\Task 14.pdb
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 14\obj\Debug\Task 14.csproj.AssemblyReference.cache
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 14\obj\Debug\Task 14.csproj.CoreCompileInputs.cache
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 14\obj\Debug\Task 14.exe
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 14\obj\Debug\Task 14.pdb

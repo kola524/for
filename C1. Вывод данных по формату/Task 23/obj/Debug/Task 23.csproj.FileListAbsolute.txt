@@ -1,0 +1,7 @@
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 23\bin\Debug\Task 23.exe.config
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 23\bin\Debug\Task 23.exe
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 23\bin\Debug\Task 23.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 23\obj\Debug\Task 23.csproj.AssemblyReference.cache
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 23\obj\Debug\Task 23.csproj.CoreCompileInputs.cache
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 23\obj\Debug\Task 23.exe
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 23\obj\Debug\Task 23.pdb

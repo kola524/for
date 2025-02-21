@@ -1,0 +1,7 @@
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 9\bin\Debug\task 9.exe.config
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 9\bin\Debug\task 9.exe
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 9\bin\Debug\task 9.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 9\obj\Debug\task 9.csproj.AssemblyReference.cache
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 9\obj\Debug\task 9.csproj.CoreCompileInputs.cache
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 9\obj\Debug\task 9.exe
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\task 9\obj\Debug\task 9.pdb

@@ -1,7 +1,0 @@
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 6\bin\Debug\Task 6.exe.config
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 6\bin\Debug\Task 6.exe
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 6\bin\Debug\Task 6.pdb
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 6\obj\Debug\Task 6.csproj.AssemblyReference.cache
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 6\obj\Debug\Task 6.csproj.CoreCompileInputs.cache
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 6\obj\Debug\Task 6.exe
-C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 6\obj\Debug\Task 6.pdb

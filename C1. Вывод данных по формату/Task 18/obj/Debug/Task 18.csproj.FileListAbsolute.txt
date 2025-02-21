@@ -1,0 +1,7 @@
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 18\bin\Debug\Task 18.exe.config
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 18\bin\Debug\Task 18.exe
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 18\bin\Debug\Task 18.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 18\obj\Debug\Task 18.csproj.AssemblyReference.cache
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 18\obj\Debug\Task 18.csproj.CoreCompileInputs.cache
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 18\obj\Debug\Task 18.exe
+C:\Users\Николай\OneDrive\Рабочий стол\циклы\Task 18\obj\Debug\Task 18.pdb
